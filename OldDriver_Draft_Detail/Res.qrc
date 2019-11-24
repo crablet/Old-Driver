@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Pictures/StartPageLogo.png</file>
+        <file>Pictures/FanBingBing.png</file>
+        <file>Pictures/ReturnButtonIcon.png</file>
+        <file>Pictures/PracticeSettingReturnButton.png</file>
+        <file>Pictures/CheckBoxChecked.png</file>
+        <file>Pictures/CheckBoxUnchecked.png</file>
+    </qresource>
+</RCC>
